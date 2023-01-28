@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	pieza 2.5
+T2	Clinical_Finding 39 56	perno muñón corto
+T3	Laboratory_or_Test_Result 10 56	tratada endodonticamente con perno muñón corto
+T4	Therapeutic_Procedure 10 34	tratada endodonticamente
+T5	Therapeutic_Procedure 103 125	prótesis fija unitaria

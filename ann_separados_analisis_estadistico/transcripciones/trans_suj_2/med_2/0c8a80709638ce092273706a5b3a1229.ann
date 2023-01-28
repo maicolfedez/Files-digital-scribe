@@ -1,0 +1,5 @@
+T1	Disease 0 45	tiroidismo subclínico por deficiencia de yodo
+T2	Disease 46 76	hipertensión esencial primaria
+T3	Disease 77 105	soplo cardíaco no específico
+T4	Disease 106 123	diabetes mellitus
+T5	Sign_or_Symptom 77 105	soplo cardíaco no específico

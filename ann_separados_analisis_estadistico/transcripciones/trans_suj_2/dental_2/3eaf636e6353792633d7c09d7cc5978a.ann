@@ -1,0 +1,5 @@
+T1	Body_Part 187 194	cemento
+T2	Disease 122 128	caries
+T3	Disease 176 194	caries del cemento
+T4	Sign_or_Symptom 83 105	dolorosa al frío calor
+T5	Therapeutic_Procedure 153 161	amalgama

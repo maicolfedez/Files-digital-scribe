@@ -1,0 +1,5 @@
+T1	Body_Part 116 124	pieza 20
+T2	Body_Part 234 241	dentina
+T3	Disease 0 26	caries dentinaria profunda
+T4	Disease 221 241	caries de la dentina
+T5	Therapeutic_Procedure 101 112	preparación

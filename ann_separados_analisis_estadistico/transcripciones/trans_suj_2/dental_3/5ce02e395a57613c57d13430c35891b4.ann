@@ -1,0 +1,5 @@
+T1	Body_Part 0 6	diente
+T2	Body_Part 98 104	diente
+T3	Disease 12 45	pulpitis Irreversible sintomática
+T4	Clinical_Finding 98 141	diente con tratamiento previamente iniciado
+T5	Therapeutic_Procedure 57 75	acceso endodóntico

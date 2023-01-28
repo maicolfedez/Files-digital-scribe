@@ -1,0 +1,11 @@
+T1	Body_Part 291 296	oídos
+T2	Body_Part 330 344	oídos externos
+T3	Disease 0 26	hipoacusia no especificada
+T4	Disease 86 93	Amnesia
+T5	Disease 116 137	hipertensión arterial
+T6	Disease 138 150	dislipidemia
+T7	Disease 151 170	insuficiencia renal
+T8	Disease 171 178	Crónica
+T9	Disease 179 204	intolerancia a la glucosa
+T10	Sign_or_Symptom 255 296	disminución de la audición en ambos oídos
+T11	Sign_or_Symptom 313 344	prurito en ambos oídos externos

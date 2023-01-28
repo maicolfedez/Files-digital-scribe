@@ -1,0 +1,7 @@
+T1	Body_Part 56 65	dientes 9
+T2	Body_Part 127 140	dientes 8 y 9
+T3	Body_Part 153 161	diente 8
+T4	Body_Part 216 225	diente 96
+T5	Diagnostic_Procedure 180 191	radiografía
+T6	Laboratory_or_Test_Result 216 262	diente 96 coma incluido con foramen apical 1 2
+T7	Therapeutic_Procedure 82 91	exodoncia

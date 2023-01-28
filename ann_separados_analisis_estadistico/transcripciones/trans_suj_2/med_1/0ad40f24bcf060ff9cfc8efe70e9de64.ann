@@ -1,0 +1,14 @@
+T1	Abbreviation 260 262	cm
+T2	Abbreviation 383 386	red
+T3	Body_Part 144 160	hombro izquierdo
+T4	Body_Part 190 211	giba dorsal izquierda
+T5	Body_Part 224 231	columna
+T6	Diagnostic_Procedure 212 237	radiografía columna total
+T7	Disease 0 26	escoliosis no especificada
+T8	Disease 412 433	coxartrosis bilateral
+T9	Disease 509 535	escoliosis no especificada
+T10	Laboratory_or_Test_Result 238 252	desnivel viano
+T11	Laboratory_or_Test_Result 263 378	escoliosis lumbar de cuarta y escoliosis dorsolumbar de octava incipientes discopatias de carácter regresivo lumbar
+T12	Sign_or_Symptom 118 160	elevación de elevación de hombro izquierdo
+T13	Sign_or_Symptom 190 211	giba dorsal izquierda
+T14	Therapeutic_Procedure 486 508	plantillas ortopédicas

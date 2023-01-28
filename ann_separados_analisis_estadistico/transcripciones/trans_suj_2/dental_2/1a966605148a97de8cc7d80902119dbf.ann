@@ -1,0 +1,7 @@
+T1	Body_Part 15 20	pulpa
+T2	Body_Part 81 91	diente 3.6
+T3	Body_Part 92 104	cara oclusal
+T4	Body_Part 188 193	pulpa
+T5	Disease 0 20	necrosis de la pulpa
+T6	Disease 119 134	necrosis pulpar
+T7	Disease 173 193	necrosis de la pulpa

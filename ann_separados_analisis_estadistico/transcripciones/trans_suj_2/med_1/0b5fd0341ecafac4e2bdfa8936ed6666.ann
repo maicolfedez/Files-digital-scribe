@@ -1,0 +1,8 @@
+T1	Body_Part 13 27	túnel carpiano
+T2	Body_Part 194 206	mano derecha
+T3	Body_Part 207 211	mano
+T4	Body_Part 425 439	túnel carpiano
+T5	Disease 0 27	síndrome del túnel carpiano
+T6	Disease 412 439	síndrome del túnel carpiano
+T7	Clinical_Finding 107 118	autovalente
+T8	Sign_or_Symptom 179 211	parestesias de mano derecha mano
