@@ -1,0 +1,8 @@
+T1	Body_Part 241 255	Rama izquierda
+T2	Disease 187 220	hipertrofia ventricular izquierda
+T3	Disease 221 255	bloqueo completo de Rama izquierda
+T4	Disease 258 301	bloqueo auriculoventricular de primer grado
+T5	Disease 319 349	hipertensión esencial primaria
+T6	Laboratory_or_Test_Result 187 220	hipertrofia ventricular izquierda
+T7	Laboratory_or_Test_Result 221 255	bloqueo completo de Rama izquierda
+T8	Laboratory_or_Test_Result 258 301	bloqueo auriculoventricular de primer grado

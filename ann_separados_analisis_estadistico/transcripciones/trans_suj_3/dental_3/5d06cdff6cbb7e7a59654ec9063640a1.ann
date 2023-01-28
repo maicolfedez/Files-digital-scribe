@@ -1,0 +1,7 @@
+T1	Body_Part 127 137	diente 2.3
+T2	Body_Part 211 215	boca
+T3	Disease 188 197	celulitis
+T4	Disease 200 215	absceso de boca
+T5	Clinical_Finding 138 147	trepanado
+T6	Therapeutic_Procedure 138 147	trepanado
+T7	Therapeutic_Procedure 162 187	tratamiento de endodoncia

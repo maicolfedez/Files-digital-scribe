@@ -1,0 +1,6 @@
+T1	Body_Part 36 45	1.2 y 2.2
+T2	Body_Part 126 135	1.2 y 2.2
+T3	Sign_or_Symptom 0 20	hiperplasia gingival
+T4	Therapeutic_Procedure 66 90	contención de ortodoncia
+T5	Therapeutic_Procedure 104 113	gibertoni
+T6	Therapeutic_Procedure 149 174	restauraciones proximales

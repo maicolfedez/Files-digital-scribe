@@ -1,0 +1,5 @@
+T1	Disease 64 94	síndrome bronquial obstructivo
+T2	Disease 99 109	faringitis
+T3	Family_Member 20 25	madre
+T4	Sign_or_Symptom 149 160	Gran tamaño
+T5	Sign_or_Symptom 165 184	secreción purulenta

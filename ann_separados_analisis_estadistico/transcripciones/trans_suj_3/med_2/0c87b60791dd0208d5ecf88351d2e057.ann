@@ -1,0 +1,7 @@
+T1	Body_Part 13 18	colon
+T2	Body_Part 41 46	colon
+T3	Body_Part 100 111	endogastric
+T4	Body_Part 135 156	región lumbar y Sacra
+T5	Disease 0 46	síndrome del colon irritable pólipos del colon
+T6	Sign_or_Symptom 74 156	molestia en la región del endogastric y se extiende hasta la región lumbar y Sacra
+T7	Sign_or_Symptom 185 204	meteorismo positivo

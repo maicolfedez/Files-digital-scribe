@@ -1,0 +1,6 @@
+T1	Body_Part 113 118	pieza
+T2	Body_Part 234 241	dentina
+T3	Disease 0 26	caries dentinaria profunda
+T4	Disease 221 241	caries de la dentina
+T5	Medication 140 145	suero
+T6	Therapeutic_Procedure 101 112	trepanación

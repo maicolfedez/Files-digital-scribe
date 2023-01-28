@@ -1,0 +1,7 @@
+T1	Disease 33 51	bocio multinodular
+T2	Disease 101 122	hipertensión arterial
+T3	Disease 125 142	diabetes mellitus
+T4	Disease 169 182	hiperglicemia
+T5	Laboratory_or_Test_Result 20 51	portadora de bocio multinodular
+T6	Laboratory_or_Test_Result 169 182	hiperglicemia
+T7	Therapeutic_Procedure 70 83	tiroidectomia

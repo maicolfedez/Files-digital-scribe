@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	pieza 2.4
+T2	Diagnostic_Procedure 52 65	radiográficos
+T3	Disease 14 31	caries penetrante
+T4	Laboratory_or_Test_Result 0 31	pieza 2.4 con caries penetrante
+T5	Laboratory_or_Test_Result 81 134	lesión periapical línea periodontal apical ensanchada
+T6	Sign_or_Symptom 135 160	dolor leve a la percusión

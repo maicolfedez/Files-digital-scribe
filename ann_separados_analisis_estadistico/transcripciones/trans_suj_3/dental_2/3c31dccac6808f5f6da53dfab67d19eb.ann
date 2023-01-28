@@ -1,0 +1,8 @@
+T1	Body_Part 133 142	diente 20
+T2	Body_Part 172 181	diente 30
+T3	Disease 29 50	hipertensión arterial
+T4	Disease 72 87	hipertiroidismo
+T5	Disease 182 216	pulpitis Irreversible asintomática
+T6	Clinical_Finding 133 171	diente 20 terapia previamente iniciada
+T7	Medication 104 112	losartán
+T8	Medication 113 123	metformina

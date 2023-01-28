@@ -1,0 +1,8 @@
+T1	Abbreviation 262 265	ADO
+T2	Body_Part 59 68	dientes 9
+T3	Body_Part 133 145	diente 8 y 9
+T4	Body_Part 158 166	diente 8
+T5	Body_Part 220 230	diente 9cm
+T6	Diagnostic_Procedure 184 195	radiografía
+T7	Laboratory_or_Test_Result 220 258	diente 9cm incluido con foramen apical
+T8	Therapeutic_Procedure 85 94	exodoncia

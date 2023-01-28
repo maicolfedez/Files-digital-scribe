@@ -1,0 +1,6 @@
+T1	Body_Part 31 45	valvula mitral
+T2	Body_Part 143 158	brazo izquierdo
+T3	Body_Part 202 209	cerebro
+T4	Sign_or_Symptom 106 129	inestabilidad de marcha
+T5	Sign_or_Symptom 130 158	debilidad en brazo izquierdo
+T6	Therapeutic_Procedure 22 45	recambio valvula mitral
