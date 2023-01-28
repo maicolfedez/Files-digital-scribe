@@ -1,0 +1,5 @@
+T1	Body_Part 35 42	pieza 5
+T2	Body_Part 130 135	pieza
+T3	Disease 20 34	pulpitis aguda
+T4	Laboratory_or_Test_Result 130 169	pieza trepanada osteítis a nivel apical
+T5	Medication 99 108	analgesia

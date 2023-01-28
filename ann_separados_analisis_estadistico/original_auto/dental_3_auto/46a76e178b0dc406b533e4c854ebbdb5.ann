@@ -1,0 +1,7 @@
+T1	Body_Part 75 84	pieza 1.4
+T2	Body_Part 160 167	cemento
+T3	Disease 0 28	caries dentinaria penetrante
+T4	Disease 85 102	caries penetrante
+T5	Disease 149 167	caries del cemento
+T6	Laboratory_or_Test_Result 75 102	pieza 1.4 caries penetrante
+T7	Therapeutic_Procedure 114 125	trepanación

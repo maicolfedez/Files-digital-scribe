@@ -1,0 +1,6 @@
+T1	Body_Part 195 202	cemento
+T2	Disease 0 28	caries dentinaria penetrante
+T3	Disease 130 136	caries
+T4	Disease 184 202	caries del cemento
+T5	Sign_or_Symptom 90 129	dolorosa al frío calor y a la percusión
+T6	Therapeutic_Procedure 161 183	amalgama ocluso distal

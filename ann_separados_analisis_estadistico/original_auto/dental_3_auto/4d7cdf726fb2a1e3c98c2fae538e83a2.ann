@@ -1,0 +1,8 @@
+T1	Body_Part 56 64	diente 9
+T2	Body_Part 129 141	diente 8 y 9
+T3	Body_Part 154 162	diente 8
+T4	Body_Part 216 224	diente 9
+T5	Diagnostic_Procedure 180 191	radiografía
+T6	Laboratory_or_Test_Result 98 137	mesiodens sobre proyectados en diente 8
+T7	Laboratory_or_Test_Result 216 263	diente 9 semi incluido con foramen apical unado
+T8	Therapeutic_Procedure 81 90	exodoncia

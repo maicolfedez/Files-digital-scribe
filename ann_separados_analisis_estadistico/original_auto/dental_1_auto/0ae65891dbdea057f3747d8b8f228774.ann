@@ -1,0 +1,6 @@
+T1	Body_Part 115 121	encías
+T2	Disease 0 13	periodontitis
+T3	Disease 175 196	periodontitis crónica
+T4	Sign_or_Symptom 78 114	cálculo dentario Supra y subgingival
+T5	Sign_or_Symptom 115 145	encías edematosas y sangrantes
+T6	Sign_or_Symptom 146 174	control de higiene oral malo
