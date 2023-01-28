@@ -1,0 +1,12 @@
+T1	Disease 0 19	insuficiencia renal
+T2	Disease 119 136	diabetes mellitus
+T3	Disease 137 158	hipertensión arterial
+T4	Disease 159 171	dislipidemia
+T5	Disease 174 188	hipotiroidismo
+T6	Medication 222 230	losartán
+T7	Medication 231 241	metformina
+T8	Medication 242 252	furosemida
+T9	Medication 253 265	gemfibrozilo
+T10	Medication 266 274	aspirina
+T11	Medication 277 284	Eutirox
+T12	Medication 414 424	alopurinol

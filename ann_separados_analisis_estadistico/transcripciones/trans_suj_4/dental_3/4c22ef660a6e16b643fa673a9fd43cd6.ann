@@ -1,0 +1,8 @@
+T1	Body_Part 0 10	pieza 3732
+T2	Body_Part 53 60	pieza 1
+T3	Body_Part 81 89	pieza 16
+T4	Body_Part 139 153	pieza 16 17 32
+T5	Laboratory_or_Test_Result 61 80	evolución intraósea
+T6	Laboratory_or_Test_Result 81 113	pieza 16 en evolución extra osea
+T7	Therapeutic_Procedure 43 52	exodoncia
+T8	Therapeutic_Procedure 129 138	exodoncia

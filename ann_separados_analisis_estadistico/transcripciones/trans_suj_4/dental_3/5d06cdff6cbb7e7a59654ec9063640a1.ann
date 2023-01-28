@@ -1,0 +1,8 @@
+T1	Body_Part 131 141	diente 2.3
+T2	Body_Part 215 219	boca
+T3	Disease 0 31	absceso dentro alveolar crónico
+T4	Disease 32 61	absceso dentoalveolar crónico
+T5	Disease 192 219	celulitis y absceso de boca
+T6	Clinical_Finding 142 151	trepanado
+T7	Therapeutic_Procedure 142 151	trepanado
+T8	Therapeutic_Procedure 166 191	tratamiento de endodoncia

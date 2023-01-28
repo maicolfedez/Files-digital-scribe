@@ -1,0 +1,9 @@
+T1	Abbreviation 135 137	TX
+T2	Body_Part 232 246	Rama izquierda
+T3	Disease 178 211	hipertrofia ventricular izquierda
+T4	Disease 212 246	bloqueo completo de Rama izquierda
+T5	Disease 249 292	bloqueo auriculoventricular de primer grado
+T6	Laboratory_or_Test_Result 178 211	hipertrofia ventricular izquierda
+T7	Laboratory_or_Test_Result 212 246	bloqueo completo de Rama izquierda
+T8	Laboratory_or_Test_Result 249 292	bloqueo auriculoventricular de primer grado
+T9	Medication 122 130	losartán

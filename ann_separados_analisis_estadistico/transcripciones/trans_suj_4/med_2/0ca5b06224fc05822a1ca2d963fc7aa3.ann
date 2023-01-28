@@ -1,0 +1,6 @@
+T1	Body_Part 22 28	tronco
+T2	Body_Part 137 153	región de tronco
+T3	Diagnostic_Procedure 311 318	biopsia
+T4	Sign_or_Symptom 115 181	aumento de volumen en región de tronco de un centímetro borde neto
+T5	Sign_or_Symptom 182 206	pluri ginoso hipocrómica
+T6	Sign_or_Symptom 207 254	superficie Lisa de aumento de tamaño progresivo

@@ -1,0 +1,6 @@
+T1	Body_Part 51 56	antro
+T2	Diagnostic_Procedure 178 187	ecografía
+T3	Diagnostic_Procedure 188 213	endoscopia digestiva alta
+T4	Disease 0 12	colelitiasis
+T5	Disease 214 226	colelitiasis
+T6	Sign_or_Symptom 136 151	dolor abdominal

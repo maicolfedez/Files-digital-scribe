@@ -1,0 +1,5 @@
+T1	Disease 63 69	anemia
+T2	Laboratory_or_Test_Result 42 51	aceptable
+T3	Laboratory_or_Test_Result 80 88	normales
+T4	Laboratory_Procedure 32 41	hemograma
+T5	Therapeutic_Procedure 115 125	extracción

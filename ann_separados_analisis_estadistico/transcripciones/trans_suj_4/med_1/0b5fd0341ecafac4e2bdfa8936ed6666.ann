@@ -1,0 +1,8 @@
+T1	Body_Part 13 27	túnel carpiano
+T2	Body_Part 195 207	mano derecha
+T3	Body_Part 208 212	mano
+T4	Disease 0 27	síndrome del túnel carpiano
+T5	Clinical_Finding 107 118	autovalente
+T6	Clinical_Finding 119 132	atleta senior
+T7	Sign_or_Symptom 180 212	parestesias de mano derecha mano
+T8	Sign_or_Symptom 235 243	síntomas

@@ -1,0 +1,8 @@
+T1	Body_Part 0 5	pieza
+T2	Body_Part 76 86	diente 2.3
+T3	Body_Part 251 261	diente 2.3
+T4	Laboratory_or_Test_Result 6 30	tratada endodonticamente
+T5	Sign_or_Symptom 49 75	restauración en mal estado
+T6	Sign_or_Symptom 94 124	dolor nocturno leve a moderado
+T7	Sign_or_Symptom 129 196	molestia a la percusión al retirar restauración se detecta mal olor
+T8	Therapeutic_Procedure 164 176	restauración

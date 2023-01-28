@@ -1,0 +1,10 @@
+T1	Abbreviation 69 71	mg
+T2	Diagnostic_Procedure 280 301	ecografía sintomática
+T3	Disease 0 15	hernia inguinal
+T4	Disease 38 52	hipotiroidismo
+T5	Disease 80 105	hernia inguinal izquierda
+T6	Disease 136 159	hernia inguinal derecha
+T7	Laboratory_or_Test_Result 269 275	hernia
+T8	Medication 53 65	levotiroxina
+T9	Sign_or_Symptom 221 256	aumento de volumen inguinal derecha
+T10	Sign_or_Symptom 315 325	reductible
