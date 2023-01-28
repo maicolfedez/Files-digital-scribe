@@ -1,0 +1,7 @@
+T1	Body_Part 25 33	tiroides
+T2	Disease 0 33	nódulo Solitario gigante tiroides
+T3	Disease 34 48	hipotiroidismo
+T4	Disease 130 151	hipertensión arterial
+T5	Disease 152 176	diabetes mellitus tipo 2
+T6	Disease 196 212	obesidad mórbida
+T7	Medication 68 80	levotiroxina

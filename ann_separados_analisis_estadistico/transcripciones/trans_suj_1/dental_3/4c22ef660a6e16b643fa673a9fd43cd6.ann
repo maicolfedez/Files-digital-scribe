@@ -1,0 +1,8 @@
+T1	Abbreviation 15 17	cm
+T2	Body_Part 0 5	pieza
+T3	Body_Part 55 62	pieza 1
+T4	Body_Part 83 91	pieza 16
+T5	Body_Part 141 158	piezas 16 17 y 32
+T6	Laboratory_or_Test_Result 83 115	pieza 16 en evolución extra osea
+T7	Therapeutic_Procedure 45 54	exodoncia
+T8	Therapeutic_Procedure 131 140	exodoncia

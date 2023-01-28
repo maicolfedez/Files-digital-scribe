@@ -1,0 +1,6 @@
+T1	Body_Part 29 35	diente
+T2	Body_Part 103 110	Grupo 5
+T3	Body_Part 157 163	diente
+T4	Disease 0 35	anomalías de la posición del diente
+T5	Sign_or_Symptom 82 110	apiñamiento dentario Grupo 5
+T6	Sign_or_Symptom 111 163	falta de espacio anomalías de la posición del diente

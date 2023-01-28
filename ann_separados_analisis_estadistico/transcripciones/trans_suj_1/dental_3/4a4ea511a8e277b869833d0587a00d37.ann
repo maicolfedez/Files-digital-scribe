@@ -1,0 +1,10 @@
+T1	Body_Part 0 5	pieza
+T2	Body_Part 75 86	dientes 2.3
+T3	Body_Part 244 254	diente 2.3
+T4	Laboratory_or_Test_Result 6 30	tratada endodonticamente
+T5	Sign_or_Symptom 49 86	restauraciones mal estado dientes 2.3
+T6	Sign_or_Symptom 94 124	dolor nocturno leve a moderado
+T7	Sign_or_Symptom 129 150	molestia la percusión
+T8	Sign_or_Symptom 186 194	mal olor
+T9	Therapeutic_Procedure 6 30	tratada endodonticamente
+T10	Therapeutic_Procedure 162 174	restauración

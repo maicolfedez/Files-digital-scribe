@@ -1,0 +1,8 @@
+T1	Body_Part 13 18	colon
+T2	Body_Part 41 46	colon
+T3	Body_Part 102 113	endogastric
+T4	Body_Part 137 158	región lumbar y Sacra
+T5	Disease 0 46	síndrome del colon irritable pólipos del colon
+T6	Sign_or_Symptom 75 158	molestias en la región del endogastric y se extiende hasta la región lumbar y Sacra
+T7	Sign_or_Symptom 187 206	meteorismo positivo
+T8	Sign_or_Symptom 286 353	problemas para lograr lo cual ha visto que a veces hace color negra

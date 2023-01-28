@@ -1,0 +1,6 @@
+T1	Body_Part 131 141	diente 2.3
+T2	Body_Part 216 220	boca
+T3	Disease 0 29	absceso dental violar crónico
+T4	Disease 30 61	absceso dental alveolar crónico
+T5	Disease 193 220	celulitis y absceso de boca
+T6	Therapeutic_Procedure 167 192	tratamiento de endodoncia

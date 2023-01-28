@@ -1,0 +1,9 @@
+T1	Body_Part 244 258	rama izquierda
+T2	Disease 187 220	hipertrofia ventricular izquierda
+T3	Disease 221 258	bloqueo completo de la rama izquierda
+T4	Disease 261 304	bloqueo auriculoventricular de primer grado
+T5	Disease 322 352	hipertensión esencial primaria
+T6	Laboratory_or_Test_Result 187 220	hipertrofia ventricular izquierda
+T7	Laboratory_or_Test_Result 221 258	bloqueo completo de la rama izquierda
+T8	Laboratory_or_Test_Result 261 304	bloqueo auriculoventricular de primer grado
+T9	Medication 122 130	losartán

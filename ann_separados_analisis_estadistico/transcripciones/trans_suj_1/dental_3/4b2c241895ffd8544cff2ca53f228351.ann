@@ -1,0 +1,5 @@
+T1	Disease 0 15	restos dentales
+T2	Laboratory_or_Test_Result 41 51	aceptables
+T3	Laboratory_or_Test_Result 57 87	leve anemia plaquetas normales
+T4	Laboratory_Procedure 31 40	hemograma
+T5	Therapeutic_Procedure 114 126	extracciones
