@@ -1,0 +1,8 @@
+T1	Body_Part 175 180	labio
+T2	Body_Part 198 214	frenillo lingual
+T3	Disease 229 275	anomalías dentofaciales incluso la maloclusion
+T4	Sign_or_Symptom 116 145	apiñamiento dentario anterior
+T5	Sign_or_Symptom 146 163	overjet aumentado
+T6	Sign_or_Symptom 164 180	succión de labio
+T7	Sign_or_Symptom 181 197	respirador bucal
+T8	Sign_or_Symptom 198 214	frenillo lingual

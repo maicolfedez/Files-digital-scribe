@@ -1,0 +1,8 @@
+T1	Body_Part 219 229	diente 1.1
+T2	Disease 246 292	anomalías dentofaciales incluso la maloclusion
+T3	Clinical_Finding 123 144	antecedentes mórbidos
+T4	Clinical_Finding 145 176	clase 2 esqueletal distoclusión
+T5	Sign_or_Symptom 145 163	clase 2 esqueletal
+T6	Sign_or_Symptom 164 176	distoclusión
+T7	Sign_or_Symptom 177 218	discrepancia dentomaxilar negativa severa
+T8	Sign_or_Symptom 219 245	diente 1.1 vestibularizado
