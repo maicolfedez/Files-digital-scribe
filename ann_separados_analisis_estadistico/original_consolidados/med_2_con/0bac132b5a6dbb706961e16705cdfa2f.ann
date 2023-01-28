@@ -1,0 +1,7 @@
+T1	Disease 0 32	enfermedad renal Crónica etapa 5
+T2	Therapeutic_Procedure 36 48	hemodiálisis
+T3	Disease 71 89	sepsis por catéter
+T4	Clinical_Finding 150 160	colostomía
+T5	Disease 184 209	hipotiroidismo subclínico
+T6	Therapeutic_Procedure 150 160	colostomía
+T7	Laboratory_or_Test_Result 71 114	sepsis por catéter por candida paropsilosis

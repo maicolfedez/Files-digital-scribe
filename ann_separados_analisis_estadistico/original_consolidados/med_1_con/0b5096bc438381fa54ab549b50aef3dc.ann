@@ -1,0 +1,11 @@
+T1	Disease 0 26	hipoacusia no especificada
+T2	Disease 125 146	hipertensión arterial
+T3	Disease 147 159	dislipidemia
+T4	Disease 160 187	insuficiencia renal Crónica
+T5	Disease 188 213	intolerancia a la glucosa
+T6	Sign_or_Symptom 264 305	disminución en la audición en ambos oídos
+T7	Body_Part 300 305	oídos
+T8	Sign_or_Symptom 322 353	prurito en ambos oídos externos
+T9	Body_Part 339 344	oídos
+T10	Medication 378 398	cremas antimicoticas
+T11	Sign_or_Symptom 365 409	administrado cremas antimicoticas sin alivio

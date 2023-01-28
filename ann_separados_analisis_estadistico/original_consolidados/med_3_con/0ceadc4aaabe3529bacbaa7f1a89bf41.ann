@@ -1,0 +1,10 @@
+T1	Body_Part 198 205	cerebro
+T2	Medication 89 101	acenocumarol
+T3	Body_Part 139 154	brazo izquierdo
+T4	Disease 0 21	fibrilación auricular
+T5	Therapeutic_Procedure 22 46	recambio valvular mitral
+T6	Clinical_Finding 54 70	válvula mecánica
+T7	Sign_or_Symptom 102 125	inestabilidad de marcha
+T8	Sign_or_Symptom 126 154	debilidad en brazo izquierdo
+T9	Therapeutic_Procedure 164 205	tomografía axial computarizada de cerebro
+T10	Therapeutic_Procedure 54 70	válvula mecánica

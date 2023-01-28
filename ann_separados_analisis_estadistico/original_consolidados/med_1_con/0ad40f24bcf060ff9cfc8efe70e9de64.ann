@@ -1,0 +1,21 @@
+T1	Disease 0 26	escoliosis no especificada
+T2	Sign_or_Symptom 131 160	elevación de hombro izquierdo
+T3	Body_Part 144 160	hombro izquierdo
+T4	Sign_or_Symptom 190 211	giba dorsal izquierda
+T5	Diagnostic_Procedure 212 237	radiografía columna total
+T6	Body_Part 224 231	columna
+T7	Laboratory_or_Test_Result 238 255	desnivel pelviano
+T8	Laboratory_or_Test_Result 266 328	escoliosis lumbar de cuarta y escoliosis dorsolumbar de octava
+T9	Body_Part 287 293	cuarta
+T10	Body_Part 322 328	octava
+T11	Body_Part 376 385	umbar uno
+T12	Body_Part 388 396	dorsal 1
+T13	Diagnostic_Procedure 397 415	radiografia pelvis
+T14	Laboratory_or_Test_Result 416 448	incipiente coxartrosis bilateral
+T15	Therapeutic_Procedure 501 523	plantillas ortopédicas
+T16	Disease 524 550	escoliosis no especificada
+T17	Body_Part 409 415	pelvis
+T18	Disease 266 283	escoliosis lumbar
+T19	Disease 296 318	escoliosis dorsolumbar
+T20	Disease 341 374	discopatias de carácter regresivo
+T21	Laboratory_or_Test_Result 329 396	incipientes discopatias de carácter regresivo lumbar uno y dorsal 1

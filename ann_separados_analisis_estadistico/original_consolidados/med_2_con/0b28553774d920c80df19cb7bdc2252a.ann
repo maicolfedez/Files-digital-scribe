@@ -1,0 +1,7 @@
+T1	Disease 0 38	osteoporosis sin fracturas patologicas
+T2	Disease 39 88	trastornos de la densidad y de la estructura ósea
+T3	Disease 118 130	dislipidemia
+T4	Clinical_Finding 131 154	sin fractura patológica
+T5	Diagnostic_Procedure 159 175	densimetría ósea
+T6	Disease 180 192	osteoporosis
+T7	Laboratory_or_Test_Result 180 199	osteoporosis severa

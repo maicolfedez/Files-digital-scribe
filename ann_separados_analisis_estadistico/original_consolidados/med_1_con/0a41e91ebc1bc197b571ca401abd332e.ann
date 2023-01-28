@@ -1,0 +1,6 @@
+T1	Family_Member 20 25	madre
+T2	Disease 63 93	síndrome bronquial obstructivo
+T3	Disease 98 108	faringitis
+T4	Body_Part 136 145	amígdalas
+T5	Sign_or_Symptom 136 160	amígdalas de Gran tamaño
+T6	Clinical_Finding 161 184	sin secreción purulenta

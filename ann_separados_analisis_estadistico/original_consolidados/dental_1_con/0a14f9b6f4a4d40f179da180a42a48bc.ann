@@ -1,0 +1,6 @@
+T1	Disease 0 16	desdentado total
+T2	Disease 72 116	desdentado total Superior y parcial inferior
+T3	Sign_or_Symptom 117 164	prótesis antiguas desajustada en muy mal estado
+T4	Therapeutic_Procedure 186 206	recambio de prótesis
+T5	Disease 207 281	otras afecciones específicas de los dientes y de sus estructuras de sostén
+T6	Body_Part 243 250	dientes

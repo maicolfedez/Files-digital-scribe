@@ -1,0 +1,7 @@
+T1	Disease 0 20	hiperplasia gingival
+T2	Body_Part 36 45	1.2 y 2.2
+T3	Therapeutic_Procedure 68 92	contención de ortodoncia
+T4	Therapeutic_Procedure 105 127	gingivectomia palatina
+T5	Body_Part 131 140	1.2 y 2.2
+T6	Therapeutic_Procedure 154 179	restauraciones proximales
+T7	Sign_or_Symptom 0 92	hiperplasia gingival en palatino de 1.2 y 2.2 en relación a antigua contención de ortodoncia

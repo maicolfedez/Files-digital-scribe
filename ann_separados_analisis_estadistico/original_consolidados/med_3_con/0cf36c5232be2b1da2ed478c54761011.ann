@@ -1,0 +1,6 @@
+T1	Disease 33 51	bocio multinodular
+T2	Therapeutic_Procedure 70 83	tiroidectomia
+T3	Disease 101 122	hipertensión arterial
+T4	Disease 125 142	diabetes mellitus
+T5	Laboratory_or_Test_Result 169 182	hiperglicemia
+T6	Laboratory_or_Test_Result 201 213	hiperkalemia

@@ -1,0 +1,9 @@
+T1	Disease 0 84	complicación mecánica de otros dispositivos protésicos implantes e injertos oculares
+T2	Body_Part 157 170	ojo izquierdo
+T3	Sign_or_Symptom 175 189	lesión corneal
+T4	Body_Part 228 241	ojo izquierdo
+T5	Medication 282 293	oftabiotico
+T6	Disease 330 414	complicación mecánica de otros dispositivos protésicos implantes e injertos oculares
+T7	Sign_or_Symptom 220 277	epifora ojo izquierdo recurrente amarillenta sin mal olor
+T8	Clinical_Finding 141 170	prótesis ocular ojo izquierdo
+T9	Therapeutic_Procedure 141 170	prótesis ocular ojo izquierdo

@@ -1,0 +1,5 @@
+T1	Disease 0 18	desdentado parcial
+T2	Disease 74 112	desdentado parcial superior e inferior
+T3	Therapeutic_Procedure 139 147	prótesis
+T4	Disease 148 224	otras afecciones especificadas de los dientes y de sus estructuras de sostén
+T5	Body_Part 186 193	dientes

@@ -1,0 +1,5 @@
+T1	Body_Part 29 35	diente
+T2	Disease 0 35	anomalías de la posición del diente
+T3	Therapeutic_Procedure 149 170	mantenedor de espacio
+T4	Therapeutic_Procedure 175 184	exodoncia
+T5	Body_Part 188 206	molares temporales

@@ -1,0 +1,7 @@
+T1	Body_Part 22 28	tronco
+T2	Body_Part 137 153	región de tronco
+T3	Disease 0 28	Nevo melanocitico del tronco
+T4	Sign_or_Symptom 115 223	aumento de volumen en región de tronco de un centímetro bordes netos pruriginoso hipocrómico superficie Lisa
+T8	Sign_or_Symptom 227 255	aumento de tamaño progresivo
+T9	Therapeutic_Procedure 286 306	resección quirúrgica
+T10	Diagnostic_Procedure 312 319	biopsia

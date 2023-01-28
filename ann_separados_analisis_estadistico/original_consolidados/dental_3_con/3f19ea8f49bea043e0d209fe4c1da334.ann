@@ -1,0 +1,4 @@
+T1	Body_Part 0 16	pieza dental 2.5
+T2	Laboratory_or_Test_Result 0 63	pieza dental 2.5 tratada endodonticamente con perno muñón corto
+T3	Clinical_Finding 46 63	perno muñón corto
+T4	Therapeutic_Procedure 110 132	prótesis fija unitaria

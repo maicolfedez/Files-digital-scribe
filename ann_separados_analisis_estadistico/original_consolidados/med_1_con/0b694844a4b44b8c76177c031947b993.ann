@@ -1,0 +1,5 @@
+T1	Disease 13 43	insuficiencia cardíaca Crónica
+T2	Disease 44 61	arritmia cardíaca
+T3	Disease 66 87	fibrilación auricular
+T4	Disease 155 163	tu renal
+T5	Laboratory_or_Test_Result 155 182	tu renal izquierdo pequeños

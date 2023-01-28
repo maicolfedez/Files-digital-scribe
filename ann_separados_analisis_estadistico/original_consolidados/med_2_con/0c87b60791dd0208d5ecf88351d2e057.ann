@@ -1,0 +1,11 @@
+T1	Disease 0 28	síndrome del colon irritable
+T2	Disease 29 45	pólipo del Colón
+T3	Body_Part 90 112	región del endogastrio
+T4	Body_Part 13 18	colon
+T5	Body_Part 40 45	Colón
+T6	Body_Part 136 157	región lumbar y Sacra
+T7	Sign_or_Symptom 74 157	molestias en la región del endogastrio y se extiende hasta la región lumbar y Sacra
+T8	Sign_or_Symptom 186 196	meteorismo
+T9	Sign_or_Symptom 285 305	problemas para obrar
+T10	Sign_or_Symptom 327 361	a veces hace color negra las heces
+T11	Sign_or_Symptom 234 257	no calma con medicación

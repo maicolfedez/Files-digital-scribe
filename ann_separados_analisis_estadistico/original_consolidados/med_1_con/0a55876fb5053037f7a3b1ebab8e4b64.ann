@@ -1,0 +1,5 @@
+T1	Disease 13 34	hipertensión arterial
+T2	Disease 76 99	hipertensión secundaria
+T3	Disease 112 140	hiperaldosteronismo primario
+T4	Laboratory_Procedure 167 206	actividad renina plasmática aldosterona
+T5	Sign_or_Symptom 35 60	refractaria a tratamiento

@@ -1,0 +1,7 @@
+T1	Disease 0 28	caries dentinaria penetrante
+T2	Sign_or_Symptom 75 129	sintomatología dolorosa al frío calor y a la percusión
+T3	Disease 130 169	caries bajo la restauración de amalgama
+T4	Clinical_Finding 145 169	restauración de amalgama
+T5	Disease 184 202	caries del cemento
+T6	Body_Part 195 202	cemento
+T7	Laboratory_or_Test_Result 0 28	caries dentinaria penetrante

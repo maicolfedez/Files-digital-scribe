@@ -1,0 +1,9 @@
+T1	Disease 0 20	necrosis de la pulpa
+T2	Body_Part 15 20	pulpa
+T3	Body_Part 81 91	diente 3.6
+T4	Disease 92 117	caries oclusal penetrante
+T5	Laboratory_or_Test_Result 92 117	caries oclusal penetrante
+T6	Disease 118 133	necrosis pulpar
+T7	Clinical_Finding 134 143	trepanado
+T8	Disease 172 192	necrosis de la pulpa
+T9	Body_Part 187 192	pulpa

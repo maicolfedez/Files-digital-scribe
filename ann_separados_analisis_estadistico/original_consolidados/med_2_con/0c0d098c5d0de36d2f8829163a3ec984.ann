@@ -1,0 +1,14 @@
+T1	Disease 0 15	hernia inguinal
+T2	Medication 53 65	levotiroxina
+T3	Disease 38 52	hipotiroidismo
+T4	Disease 80 105	hernia inguinal izquierda
+T5	Disease 136 159	hernia inguinal derecha
+T6	Sign_or_Symptom 221 256	aumento de volumen inguinal derecha
+T7	Laboratory_or_Test_Result 269 275	hernia
+T8	Diagnostic_Procedure 280 289	ecografía
+T9	Sign_or_Symptom 315 325	reductible
+T10	Therapeutic_Procedure 72 105	cirugía hernia inguinal izquierda
+T11	Clinical_Finding 80 113	hernia inguinal izquierda operada
+T12	Clinical_Finding 136 167	hernia inguinal derecha operada
+T13	Disease 269 275	hernia
+T14	Therapeutic_Procedure 351 358	cirugía

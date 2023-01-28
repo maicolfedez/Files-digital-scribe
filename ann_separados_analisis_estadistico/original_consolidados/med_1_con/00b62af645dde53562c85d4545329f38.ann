@@ -1,0 +1,8 @@
+T2	Sign_or_Symptom 15 38	embarazo de alto riesgo
+T3	Disease 39 62	displasia cervical leve
+T4	Clinical_Finding 109 119	primigesta
+T5	Clinical_Finding 120 128	embarazo
+T6	Laboratory_or_Test_Result 163 196	neoplasia intraepitelial primaria
+T7	Disease 163 196	neoplasia intraepitelial primaria
+T9	Sign_or_Symptom 212 235	embarazo de alto riesgo
+T1	Laboratory_or_Test_Result 39 62	displasia cervical leve

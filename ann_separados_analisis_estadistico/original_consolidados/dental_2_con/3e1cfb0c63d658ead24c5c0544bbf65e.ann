@@ -1,0 +1,10 @@
+T1	Disease 0 46	anomalías dentofaciales incluso la maloclusión
+T2	Disease 116 136	apiñamiento dentario
+T3	Sign_or_Symptom 116 145	apiñamiento dentario anterior
+T4	Sign_or_Symptom 146 163	overjet aumentado
+T5	Sign_or_Symptom 164 180	succión de labio
+T6	Body_Part 175 180	labio
+T7	Sign_or_Symptom 181 197	respirador bucal
+T8	Sign_or_Symptom 198 228	frenillo lingual un poco corto
+T9	Body_Part 198 214	frenillo lingual
+T10	Disease 229 275	anomalías dentofaciales incluso la maloclusion

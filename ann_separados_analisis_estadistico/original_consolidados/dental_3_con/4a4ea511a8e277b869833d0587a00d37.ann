@@ -1,0 +1,11 @@
+T1	Clinical_Finding 0 30	pieza tratada endodonticamente
+T2	Body_Part 0 5	pieza
+T3	Sign_or_Symptom 49 86	restauración en mal estado diente 2.3
+T4	Body_Part 76 86	diente 2.3
+T5	Sign_or_Symptom 94 124	dolor nocturno leve a moderado
+T6	Clinical_Finding 125 153	sin molestias a la percusión
+T7	Sign_or_Symptom 157 199	retirar restauraciones se detecta mal olor
+T8	Clinical_Finding 200 224	tratado endodonticamente
+T9	Sign_or_Symptom 233 264	fístula a distal del diente 2.3
+T10	Body_Part 254 264	diente 2.3
+T11	Medication 289 297	eugenato

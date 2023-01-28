@@ -1,0 +1,11 @@
+T1	Disease 0 27	síndrome del túnel carpiano
+T2	Body_Part 13 27	túnel carpiano
+T3	Clinical_Finding 107 118	autovalente
+T4	Clinical_Finding 119 132	atleta senior
+T5	Sign_or_Symptom 180 207	parestesias de mano derecha
+T6	Body_Part 195 207	mano derecha
+T7	Body_Part 208 212	mano
+T8	Sign_or_Symptom 291 327	síntomas limitan su actividad física
+T9	Disease 416 443	síndrome del túnel carpiano
+T10	Body_Part 429 443	túnel carpiano
+T11	Clinical_Finding 235 278	síntomas no se presentan al examenes físico

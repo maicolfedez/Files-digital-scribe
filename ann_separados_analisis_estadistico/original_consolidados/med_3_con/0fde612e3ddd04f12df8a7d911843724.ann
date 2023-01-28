@@ -1,0 +1,9 @@
+T1	Disease 0 12	colelitiasis
+T2	Body_Part 51 56	antro
+T4	Sign_or_Symptom 136 165	dolor abdominal de larga Data
+T5	Diagnostic_Procedure 178 187	ecografía
+T6	Diagnostic_Procedure 188 213	endoscopia digestiva alta
+T7	Disease 214 226	colelitiasis
+T8	Laboratory_or_Test_Result 26 56	compresión extrínseca en antro
+T9	Laboratory_or_Test_Result 0 12	colelitiasis
+T10	Laboratory_or_Test_Result 214 226	colelitiasis

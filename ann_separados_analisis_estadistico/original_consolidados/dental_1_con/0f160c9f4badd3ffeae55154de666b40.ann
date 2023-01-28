@@ -1,0 +1,9 @@
+T1	Body_Part 0 9	1.1 y 1.2
+T2	Disease 10 48	caries coronarias extensas penetrantes
+T3	Laboratory_or_Test_Result 49 65	granulada apical
+T4	Disease 66 81	necrosis pulpar
+T5	Body_Part 82 91	2.1 y 2.2
+T6	Disease 105 120	resto radicular
+T7	Laboratory_or_Test_Result 121 140	granulomas apicales
+T8	Disease 141 156	neurosis pulpar
+T9	Sign_or_Symptom 170 189	déficit neurológico

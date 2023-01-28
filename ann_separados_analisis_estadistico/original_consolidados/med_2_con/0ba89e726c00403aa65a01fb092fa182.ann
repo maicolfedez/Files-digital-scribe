@@ -1,0 +1,6 @@
+T1	Body_Part 63 75	codo derecho
+T2	Body_Part 195 199	codo
+T3	Disease 43 75	esguince grado 1 de codo derecho
+T4	Sign_or_Symptom 166 199	dolor a la flexión total del codo
+T5	Sign_or_Symptom 242 247	dolor
+T6	Therapeutic_Procedure 135 149	inmovilización

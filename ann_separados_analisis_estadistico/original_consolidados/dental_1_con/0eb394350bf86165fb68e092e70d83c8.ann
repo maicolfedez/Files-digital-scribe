@@ -1,0 +1,7 @@
+T1	Disease 0 26	caries dentinaria profunda
+T2	Therapeutic_Procedure 101 112	trepanación
+T3	Body_Part 113 121	pieza 20
+T4	Therapeutic_Procedure 124 167	irrigación con suero instrumentado hasta 35
+T5	Medication 139 144	suero
+T6	Disease 220 240	caries de la dentina
+T7	Body_Part 233 240	dentina

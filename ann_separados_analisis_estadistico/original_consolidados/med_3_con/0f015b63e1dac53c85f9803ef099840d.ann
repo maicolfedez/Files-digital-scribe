@@ -1,0 +1,6 @@
+T1	Disease 0 25	alteraciones de la visión
+T2	Disease 26 29	h53
+T3	Disease 31 56	alteraciones de la visión
+T4	Sign_or_Symptom 57 66	fotopsias
+T5	Sign_or_Symptom 126 168	visión de moscas volantes en ojo izquierdo
+T6	Body_Part 155 168	ojo izquierdo

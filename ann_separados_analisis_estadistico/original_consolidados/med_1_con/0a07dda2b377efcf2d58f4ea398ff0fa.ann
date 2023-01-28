@@ -1,0 +1,5 @@
+T1	Disease 0 32	ausencia y aplasia del testículo
+T2	Body_Part 23 32	testículo
+T3	Sign_or_Symptom 121 155	ausencia de testes en bolsa crotal
+T4	Body_Part 133 139	testes
+T5	Body_Part 143 155	bolsa crotal

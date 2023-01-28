@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	pieza 1.5
+T2	Disease 10 42	periodontitis apical sintomática
+T3	Clinical_Finding 43 87	tratamiento endodontico previamente iniciado
+T4	Sign_or_Symptom 88 107	calidad muy extensa
+T5	Therapeutic_Procedure 137 162	tratamiento de endodoncia
+T6	Therapeutic_Procedure 176 185	exodoncia

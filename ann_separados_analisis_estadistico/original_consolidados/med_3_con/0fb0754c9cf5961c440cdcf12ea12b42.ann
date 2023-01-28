@@ -1,0 +1,16 @@
+T1	Disease 0 27	insuficiencia renal Crónica
+T2	Disease 119 136	diabetes mellitus
+T3	Disease 137 158	hipertensión arterial
+T4	Disease 159 171	dislipidemia
+T5	Disease 174 188	hipotiroidismo
+T6	Medication 222 230	losartán
+T7	Medication 231 241	metformina
+T8	Medication 242 252	furosemida
+T9	Medication 253 265	gemfibrozilo
+T10	Medication 266 274	aspirina
+T11	Medication 277 284	Eutirox
+T12	Medication 417 427	alopurinol
+T13	Laboratory_or_Test_Result 295 360	velocidad de filtración glomerular en 27 tercera medición bajo 30
+T14	Laboratory_or_Test_Result 365 378	hiperuricemia
+T15	Clinical_Finding 83 93	analfabeto
+T16	Laboratory_Procedure 295 329	velocidad de filtración glomerular

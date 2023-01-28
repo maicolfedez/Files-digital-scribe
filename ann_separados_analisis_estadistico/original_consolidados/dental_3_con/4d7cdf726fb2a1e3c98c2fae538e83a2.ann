@@ -1,0 +1,11 @@
+T1	Sign_or_Symptom 40 64	sin erupción de diente 9
+T2	Body_Part 56 64	diente 9
+T3	Therapeutic_Procedure 81 90	exodoncia
+T4	Disease 98 107	mesiodens
+T5	Laboratory_or_Test_Result 94 141	dos mesiodens sobre proyectados en diente 8 y 9
+T6	Body_Part 129 141	diente 8 y 9
+T7	Body_Part 154 162	diente 8
+T8	Medication 180 191	radiografía
+T9	Body_Part 216 224	diente 9
+T10	Laboratory_or_Test_Result 216 263	diente 9 semi incluido con foramen apical unado
+T11	Clinical_Finding 142 174	erupción de diente 8 hace un año
